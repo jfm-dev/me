@@ -1,3 +1,13 @@
+.p-desc {
+  padding-top: 10px;
+  color: white;
+  text-align: justify;
+  line-height: 0.7cm;
+}
+.h-title{
+  color: white;
+}
+
 /*-----------------------------------*\
   #style.css
 \*-----------------------------------*/
@@ -112,7 +122,7 @@ body {
 
 /* Title of the card */
 .title {
-  color: #fdc964;
+  /* color: #fdc964; */
   position: relative;
 }
 
@@ -142,8 +152,7 @@ body {
   right: -45px;
 }
 
-
-.title-color{
+.title-color {
   color: #fdc964;
 }
 
